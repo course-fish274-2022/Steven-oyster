@@ -1,6 +1,6 @@
 
 
-#loading libary
+#loading library
 
 library(dplyr)
 
